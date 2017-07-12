@@ -1,0 +1,8 @@
+/Users/chazhenricks/workspace/csharp/orientation/exercises/interfaces/bin/Debug/netcoreapp1.1/interfaces.deps.json
+/Users/chazhenricks/workspace/csharp/orientation/exercises/interfaces/bin/Debug/netcoreapp1.1/interfaces.runtimeconfig.json
+/Users/chazhenricks/workspace/csharp/orientation/exercises/interfaces/bin/Debug/netcoreapp1.1/interfaces.runtimeconfig.dev.json
+/Users/chazhenricks/workspace/csharp/orientation/exercises/interfaces/bin/Debug/netcoreapp1.1/interfaces.dll
+/Users/chazhenricks/workspace/csharp/orientation/exercises/interfaces/bin/Debug/netcoreapp1.1/interfaces.pdb
+/Users/chazhenricks/workspace/csharp/orientation/exercises/interfaces/obj/Debug/netcoreapp1.1/interfaces.AssemblyInfo.cs
+/Users/chazhenricks/workspace/csharp/orientation/exercises/interfaces/obj/Debug/netcoreapp1.1/interfaces.dll
+/Users/chazhenricks/workspace/csharp/orientation/exercises/interfaces/obj/Debug/netcoreapp1.1/interfaces.pdb
